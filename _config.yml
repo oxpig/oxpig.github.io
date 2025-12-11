@@ -89,7 +89,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: BLOPIG # blog_name will be displayed in your blog page
-blog_description: Check out what members of the lab are upto when they're not wrestling for GPU allocations
+blog_description: Check out what members of the lab are up to when they're not wrestling for GPU allocations
 permalink: https://www.blopig.com/blog/
 lsi: true # produce an index for related posts
 
