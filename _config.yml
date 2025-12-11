@@ -9,9 +9,9 @@ first_name: Oxford Protein Informatics Group (or OPIG to friends)
 #contact_note: >
  # You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-Welcome to the OPIG homepage. Our research group is led by Charlotte Deane and is based in the Department of Statistics.
-
-Our research interests cover several areas in the field of protein structure and interaction networks, combining both theoretical work and empirical analyses. Of particular interest are the concepts of protein structure evolution, protein folding and structure prediction, as well as understanding the structure and evolution of protein interaction networks. Check out our blog and current research for details!
+ Welcome to the OPIG homepage. Our research group is led by Charlotte Deane and is based in the Department of Statistics.
+ 
+ Our research interests cover several areas in the field of protein structure and interaction networks, combining both theoretical work and empirical analyses. Of particular interest are the concepts of protein structure evolution, protein folding and structure prediction, as well as understanding the structure and evolution of protein interaction networks. Check out our blog and current research for details!
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
